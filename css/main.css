@@ -64,6 +64,12 @@ ul{
 	padding: 0px;
 	margin: opx;
 }
+.nav-style{
+	margin: 0rem 1rem 0rem 1rem;
+	text-align: center;
+	text-decoration: none;
+
+}
 .nav{
 	display: flex;
 	text-decoration: none;
@@ -73,7 +79,7 @@ ul{
 }
 .hero{
 	background-image: url(../images/capture.PNG);
-	height: 100%rem;
+	height: 100%;
 	width: 100%;
 	background-repeat: no-repeat;
 	background-size: cover;
