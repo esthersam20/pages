@@ -56,17 +56,29 @@ body{
 li{
 	margin: 0rem 0.5rem 0rem 0.5rem;
 }
+ul{
+	list-style-type: none;
+	text-decoration: none;
+	text-align: center;
+	display: flex;
+	padding: 0px;
+	margin: opx;
+}
 .nav{
 	display: flex;
-	list-style-type: none;
+	text-decoration: none;
 	text-align: center;
+	padding: 2rem 0.5rem;
+	list-style-type: none;
 }
 .hero{
 	background-image: url(../images/capture.PNG);
-	height: 50rem;
+	height: 100%rem;
+	width: 100%;
 	background-repeat: no-repeat;
 	background-size: cover;
 	font-weight: 150px;
+	background-position: center;
 }
 .hero1{
 	text-align: center;
@@ -83,11 +95,15 @@ li{
 
 }
 .instructor{
-	width: 430px;
+	width: 100%;
+	height: 70%;
 	font-weight: 800px;
+	margin: 0rem 0.5rem 0rem 0.5rem;
+	padding: 0rem 0.5rem 0rem 0.5rem;
+	padding-left:rem;
 }
 .col{
-	width: 200px;
+	width: 100%px;
 	font-size: 0.9rem;
 	background-color: white;
 	color: black;
@@ -100,18 +116,43 @@ li{
 	margin-right: 50rem;
 }
 img{
-	padding: 0rem 0.5rem 0rem 0.5rem;
-	margin: 0.5rem;
+	padding: 0.5rem 1rem 0.5rem 1rem;
+	margin: 0.5.rem 1rm 0.5rem 1rem;
 	border-radius: 2rem;
-	width: 430px;
-	height: 450px;
+	width: 100%px;
+	height: 50%px;
 }
 input{
+	width: 50%;
+	height: 20%;
 	color: black;
-	font-weight: 25px;
+	font-weight: 20px;
 	background-color:;
-	border-radius: 0.5rem;
+	border-radius: 0.8rem;
+	font-size: 30px;
+	padding: 10px;
+	padding-top: 5px;
 }
+label{
+	color: black;
+	margin: 0px 10px 0px 10px ;
+	padding: 0rem 0.5rem 0rem 0.5rem;
+}
+input{
+	color: white;
+	background-color: skyblue;
+	border-radius: 10px;
+}
+.free{
+	color: white;
+	background-color:blueviolet ;
+	border-radius: 10px;
+}
+.bad{
+	color: white;
+	background-color:ghostwhite;
+}
+
 p{
 	font-weight: 250px;
 	font-size: 20px;
@@ -147,9 +188,10 @@ h4{
 	padding: 1re 1rem;
 }
 .came{
-	background-color: ;
-	margin: 1rem 1rem;
-	padding: 1re 1rem;
+	width: 100%;
+	height: 50%;
+	margin: 0rem 2rem 0rem 1rem;
+	padding: 0rem 1rem 0rem 1rem;
 }.eng{
 	
 	margin: 1rem 1rem;
@@ -157,8 +199,9 @@ h4{
 }
 .sci{
 	
-	margin: 1rem 1rem;
-	padding: 1re 1rem;
+	margin: 0.5rem 1rem 0.5rem 1rem;
+	padding: 0.5rem 1rem 0.5rem 1rem;
+	margin-right: 10px;
 }
 .ye{
 	
