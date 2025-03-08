@@ -78,7 +78,7 @@ ul{
 	list-style-type: none;
 }
 .hero{
-	background-image: url(../images/capture.);
+	background-image: url(../images/capture.png);
 	height: 100%;
 	width: 100%;
 	background-repeat: no-repeat;
@@ -92,11 +92,11 @@ ul{
 .see{
 	color: white;
 	text-align: center;
-	padding-top: 16rem;
+	padding-top: 35rem;
 	font-size: 2rem;
 	font-weight: 150px;
 	margin-left: 10rem;
-	padding-bottom: 1.5rem;
+	padding-bottom: 3rem;
 
 
 }
