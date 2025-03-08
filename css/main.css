@@ -78,7 +78,7 @@ ul{
 	list-style-type: none;
 }
 .hero{
-	background-image: url(../images/capture.png);
+	background-image: url(../images/capture.PNG);
 	height: 100%;
 	width: 100%;
 	background-repeat: no-repeat;
