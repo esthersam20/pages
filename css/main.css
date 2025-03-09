@@ -52,6 +52,7 @@ body{
 	font-size: 1rem;
 	font-family: Arial;
 	background-color: ghostwhite;
+	background-position: center;
 }
 h1{
 	font-size: 1.8rem;
@@ -104,12 +105,12 @@ ul{
 }
 
 .see{
-	color: black;
+	color: white;
 	text-align: center;
 	padding-top: 35rem;
-	font-size: 4rem;
+	font-size: 3rem;
 	font-weight: 150px;
-	margin-left: 10rem;
+	margin-left: 8rem;
 	padding-bottom: 35rem;
 
 
