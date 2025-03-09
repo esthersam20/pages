@@ -53,6 +53,7 @@ body{
 	font-family: Arial;
 	background-color: ghostwhite;
 	background-position: center;
+
 }
 h1{
 	font-size: 1.8rem;
@@ -89,9 +90,10 @@ ul{
 	width: 100%;
 	background-repeat: no-repeat;
 	background-size: cover;
-	font-weight: 150px;
+	font-weight: 700px;
 	background-position: center;
 	text-align: center;
+
 }
 .btn {
   font-weight: 700; /* Bold */
