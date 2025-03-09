@@ -55,8 +55,8 @@ body{
 	background-position: center;
 
 }
-body {
-  background-image: url('your-image.jpg'); 
+.body {
+  background-image: url('../images/imaged.png); 
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover; 
