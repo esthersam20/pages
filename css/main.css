@@ -55,6 +55,8 @@ body{
 }
 h1{
 	font-size: 1.8rem;
+		margin: 2rem 2.5rem;
+	padding: 2re 2.5rem;
 }
 li{
 	margin: 0rem 0.5rem 0rem 0.5rem;
