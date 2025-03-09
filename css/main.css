@@ -55,22 +55,13 @@ body{
 	background-position: center;
 
 }
-.body {
-  background-image: url('../images/imaged.png); 
-  background-position: center;
-  background-repeat: no-repeat;
-  background-size: cover; 
-  height: 100vh; 
-  margin: 0;
-}
-
 h1{
 	font-size: 1.8rem;
 		margin: 2rem 2.5rem;
 	padding: 2re 2.5rem;
 }
 li{
-	margin: 0rem 0.2rem 0rem 0.2rem;
+	margin: 0rem 0.4rem 0rem 0.4rem;
 }
 ul{
 	list-style-type: none;
@@ -78,7 +69,7 @@ ul{
 	text-align: center;
 	display: flex;
 	padding: 0px;
-	margin: 0.2px;
+	margin: 0.5px;
 }
 .nav-style{
 	margin: 0rem 1rem 0rem 1rem;
@@ -191,7 +182,6 @@ input{
 .bad{
 	color: white;
 	background-color:ghostwhite;
-	text-align: center;
 }
 
 p{
