@@ -89,7 +89,7 @@ ul{
 	background-image: url(../images/imagey.png);
 	background-repeat: no-repeat;
 	background-size: cover;
-	background-position: center center;
+	background-position: 50% 50%;
   
 }
 .btn {
