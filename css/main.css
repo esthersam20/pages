@@ -91,6 +91,7 @@ ul{
 	background-repeat: no-repeat;
 	background-size: cover;
 	background-position: center;
+	padding-right: 50px;
 }
 .btn {
   font-weight: 700; /* Bold */
