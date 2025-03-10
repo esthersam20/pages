@@ -70,10 +70,10 @@ ul{
 	text-align: center;
 	display: flex;
 	padding: 0px;
-	margin: 0px;
+	margin: 0.2px;
 }
 .nav-style{
-	margin: 0rem 1rem 0rem 1rem;
+	margin: 0rem 0.2rem 0rem 0.2rem;
 	text-align: center;
 	text-decoration: none;
 
