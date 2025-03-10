@@ -86,7 +86,7 @@ ul{
 }
 .hero{
 	background-image: url(../images/imaged.png);
-	height: 100%;
+	height: %;
 	width: 100%;
 	background-repeat: no-repeat;
 	background-size: cover;
