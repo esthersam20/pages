@@ -87,14 +87,18 @@ ul{
 }
 
   .hero {
-  background-image: url(../images/imagey.png); 
-  min-height: 100vh;
-  width: 100%;
-  background-repeat: no-repeat;
-  background-size: cover; 
-  background-position: center center;
-  display: block;
+  background-image: url('../images/imagey.png'); /* Make sure the path is correct */
+  min-height: 100vh; /* Ensure full height */
+  width: 100%; /* Full width */
+  background-repeat: no-repeat; /* Prevent tiling */
+  background-size: cover; /* Cover the entire area */
+  background-position: center center; /* Center the background */
+  display: flex; /* Enable centering */
+  justify-content: center; /* Center horizontally */
+  align-items: center; /* Center vertically */
+  text-align: center; /* Center text inside */
 }
+
 .btn {
   font-weight: 700; /* Bold */
 }
