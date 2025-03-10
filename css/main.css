@@ -62,7 +62,7 @@ h1{
 }
 li{
 	margin: 0rem 0.1rem 0rem 0.1rem;
-	padding-left: 16rem;
+	padding-left: 1rem;
 }
 ul{
 	list-style-type: none;
@@ -86,8 +86,8 @@ ul{
 	list-style-type: none;
 }
 .hero{
-	background-image: url(../images/imaged.png);
-	height: %;
+	background-image: url(../images/imagey.png);
+	height: 100%;
 	width: 100%;
 	background-repeat: no-repeat;
 	background-size: cover;
