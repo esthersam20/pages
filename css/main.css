@@ -90,7 +90,7 @@ ul{
 	width: 100%;
 	background-repeat: no-repeat;
 	background-size: cover;
-	background-position: center;
+	background-position:center;
   margin: 0rem 1rem;
 	padding: 0re 1rem;
 	margin-left: 25px;
@@ -117,6 +117,7 @@ ul{
 	font-weight: 150px;
 	margin-left: 8rem;
 	padding-bottom: 35rem;
+	padding-right: 10rem;
 
 
 }
