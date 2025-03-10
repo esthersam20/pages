@@ -85,16 +85,16 @@ ul{
 	padding: 2rem 0.5rem;
 	list-style-type: none;
 }
-.hero {
-  background-image: url('../images/imagey.png'); /* Ensure the correct path */
-  min-height: 100vh; /* Make sure it takes full screen height */
+ .hero {
+  background-image: url('../images/imagey.png');
+  min-height: 100vh;
   width: 100%;
   background-repeat: no-repeat;
-  background-size: cover;
-  background-position: center;
-  display: block; /* Override Bootstrap's flex behavior */
-  margin: 0; /* Remove unnecessary margins */
-  padding: 0; /* Adjust padding if needed */
+  background-size: cover; 
+  background-position: center center;
+  display: block;
+}
+
 }
 
 	
