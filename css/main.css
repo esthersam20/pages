@@ -87,10 +87,17 @@ ul{
 }
 .hero{
 	background-image: url(../images/imagey.png);
+	height: 100%;
+	width: 100%;
 	background-repeat: no-repeat;
 	background-size: cover;
-	background-position: 50% 50%;
-  
+	background-position: center center;
+  margin: 0rem 1rem;
+	padding: 0re 1rem;
+	margin-left: 25px;
+	margin-right: 10px;
+	padding-left: 25px;
+	padding-bottom: 10px;
 }
 .btn {
   font-weight: 700; /* Bold */
