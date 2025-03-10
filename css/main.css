@@ -261,7 +261,9 @@ h4{
 
 }
 .yes{
-	width: 30%;
+	width: 100%;
+	padding-left: 40rem;
+	padding-right: 40rem;
 	
 
 }
