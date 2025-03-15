@@ -78,7 +78,7 @@ ul{
 	text-decoration: none;
 
 }
-.nav{
+.navbar{
 	display: flex;
 	text-decoration: none;
 	text-align: center;
@@ -96,7 +96,7 @@ ul{
   justify-content: center; /* Center horizontally */
   align-items: center; /* Center vertically */
   text-align: center; /* Center text inside *
- 
+
 
 
 }
