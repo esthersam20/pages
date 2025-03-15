@@ -95,7 +95,10 @@ ul{
   display: flex; /* Enable centering */
   justify-content: center; /* Center horizontally */
   align-items: center; /* Center vertically */
-  text-align: center; /* Center text inside */
+  text-align: center; /* Center text inside *
+ 
+
+
 }
 
 .btn {
