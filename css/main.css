@@ -73,7 +73,7 @@ ul{
 	margin: 0.1px;
 }
 .nav-style{
-	margin: 0rem 0.2rem 0rem 0.2rem;
+	margin: 0rem 0rem 0rem 0rem;
 	text-align: center;
 	text-decoration: none;
 
@@ -149,7 +149,7 @@ ul{
 }
 img{
 	padding: 0.5rem 1rem 0.5rem 1rem;
-	margin: 0.5.rem 1rm 0.5rem 1rem;
+	margin: 0rem 0rm 0rem 0rem;
 	border-radius: 2rem;
 	width: 100%px;
 	height: 100%px;
