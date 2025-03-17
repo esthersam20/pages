@@ -78,11 +78,11 @@ ul{
 	text-decoration: none;
 
 }
-.navba 0.5rem{
+.nav{
 	display: flex;
 	text-decoration: none;
 	text-align: center;
-	padding: 0rem 0.5rem;
+	padding: 0rem 0.2rem;
 	list-style-type: none;
 }
 .hero {
