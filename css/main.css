@@ -62,12 +62,12 @@ h1{
 }
 li{
 	margin: 0rem 0rem 0rem 0rem;
-	padding-left: 2rem;
+	padding-left: 0rem;
 }
 ul{
 	list-style-type: none;
 	text-decoration: none;
-	text-align: center;
+   text-align: center;
 	display: flex;
 	padding: 0px;
 	margin: 0px;
