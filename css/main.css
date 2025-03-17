@@ -90,6 +90,7 @@ ul{
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
+  display: flex;
 
 }
 
@@ -110,7 +111,7 @@ ul{
 	padding-top: 40rem;
 	font-size: 2rem;
 	font-weight: 150px;
-	margin-left: 2rem;
+	margin-left: 0rem;
 	padding-bottom: 35rem;
 	padding-right: 40px;
 
@@ -136,8 +137,8 @@ ul{
 	text-decoration-color: blue;
 }
 .wow{
-	margin-left: 3rem;
-	margin-right: 50rem;
+	margin-left: 0rem;
+	margin-right: 0rem;
 }
 img{
 	padding: 0rem 0rem 0rem 0rem;
@@ -212,7 +213,7 @@ h4{
 
 	margin: 0rem 0rem;
 	padding: 0re 1rem;
-	margin-left: 25px;
+	margin-left: 0px;
 	margin-right: 0px;
 	padding-left: 25px;
 	padding-bottom: 10px;
@@ -232,7 +233,7 @@ h4{
 	
 	margin: 0rem 0rem 0rem 1rem;
 	padding: 0.5rem 1rem 0.5rem 1rem;
-	margin-right: 10px;
+	margin-right: 0px;
 	padding-top: 30px;
 }
 .ye{
@@ -241,14 +242,14 @@ h4{
 }
 
 	img {
-  margin: 15px;
+  margin: 0px;
 }
 .image-container {
   display: flex;
   gap: 20px;
 }
 .go{
-	margin: 0rem 1rem;
+	margin: 0rem 0rem;
 	padding: 0re 1rem;
 	margin-left: 25px;
 	margin-right: 10px;
