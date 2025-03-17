@@ -162,7 +162,7 @@ input{
 	font-weight: 20px;
 	background-color:;
 	border-radius: 0.8rem;
-	font-size: 30px;
+	font-size: 40px;
 	padding: 10px;
 	padding-top: 5px;
 }
@@ -172,8 +172,8 @@ label{
 	padding: 0rem 0.5rem 0rem 0.5rem;
 }
 input{
-	color: white;
-	background-color: skyblue;
+	color: black;
+	background-color: white;
 	border-radius: 10px;
 }
 .free{
