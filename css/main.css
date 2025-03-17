@@ -162,13 +162,14 @@ input{
 }
 label{
 	color: black;
-	margin: 0px 10px 0px 10px ;
+	margin: 0px 0px 0px 0px ;
 	padding: 0rem 0.5rem 0rem 0.5rem;
 }
 input{
-	color: black;
-	background-color: white;
+	color: white;
+	background-color: skyblue;
 	border-radius: 10px;
+	text-align: center;
 }
 .free{
 	color:black;
