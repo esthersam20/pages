@@ -179,6 +179,7 @@ input{
 	color: white;
 	background-color:ghostwhite;
 	text-align: center;
+	width: 50%; height: 50%;
 }
 
 p{
@@ -266,6 +267,25 @@ h4{
 	padding-right: 30rem;
 	
 
+}
+label {
+    font-size:15px;
+    font-weight:normal;
+    float:left;
+    margin:0px 0px 20px 0px;
+}
+.form-group {
+    margin-bottom: 30px;
+}
+textarea.form-control {
+    min-height: 120px;
+    resize: none;
+}
+.form-control {
+    border: 1px solid #ccc;
+    height: 35px;
+    border-radius: 0;
+    box-shadow: none;
 }
 
 
