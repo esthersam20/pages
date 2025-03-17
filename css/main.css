@@ -179,7 +179,7 @@ input{
 	color: white;
 	background-color:ghostwhite;
 	text-align: center;
-	width: 50%; height: 50%;
+	width: 40%; height: 50%;
 }
 
 p{
@@ -278,7 +278,7 @@ label {
     margin-bottom: 30px;
 }
 textarea.form-control {
-    min-height: 120px;
+    min-height: 50%px;
     resize: none;
 }
 .form-control {
